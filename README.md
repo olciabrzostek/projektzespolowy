@@ -2,12 +2,14 @@
 
 # Harmonogram pracy nad stroną
 
-Okres: jeden miesiąc
+Okres: do dwóch miesięcy
 
-pierwszy tydzień: określenie celu projektu, oszacowanie kosztów utrzymiania strony przez 3 lata i wykonanie projektu strony
+pierwszy tydzień: określenie celu projektu, oszacowanie kosztów utrzymiania strony przez 3 lata i 
+drugi tydzień: zaprojektowanie strony
+trzeci - czwarty tydzień - zakodowanie strony
 
-drugi tydzień: wygenerowanie umowy o przekazaniu praw autorskich, wykonanie strony
+piąty tydzień: wygenerowanie umowy o przekazaniu praw autorskich, wykonanie strony
 
-trzeci tydzień: konfiguracja serwera
+szósty tydzień: konfiguracja serwera
 
-czwarty tydzień: dokonanie poprawek i przeprowadzenie testów
+siódmy tydzień: dokonanie poprawek i przeprowadzenie testów
